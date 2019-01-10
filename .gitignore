@@ -67,3 +67,5 @@ adapter.development.js
 .idea
 
 server/www/static_*
+client/package-lock.json
+server/package-lock.json
