@@ -1,6 +1,13 @@
 # vue + nodejs 
 Vue.js 2 + vue-router + webpack2 + iView 2 + thinkjs
 
+## 截图
+1、每天都会变换的背景，❤情舒适
+![ScreenShot](https://raw.github.com/feeloc/dash-template/master/screeshot/6678912C-1571-42C6-99C0-C112F4BF6C0D.png)
+2、首页
+![ScreenShot](https://raw.github.com/feeloc/dash-template/master/screeshot/6678912C-1571-42C6-99C0-C112F4BF6C1D.png)
+![ScreenShot](https://raw.github.com/feeloc/dash-template/master/screeshot/6678912C-1571-42C6-99C0-C112F4BF6C2D.png)
+
 ## 前端
 
 使用技术：vue.js \
